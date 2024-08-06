@@ -1,4 +1,4 @@
 version: STSv1
-mode: testing
+mode: none
 mx: fredbianchi-com.u-v1.mx.microsoft
 max_age: 604800
