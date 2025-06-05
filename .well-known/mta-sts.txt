@@ -1,5 +1,4 @@
 version: STSv1
-mode: none
-mx: fredbianchi-com.u-v1.mx.microsoft
+mode: enforce
 mx: fredbianchi-com.mail.protection.outlook.com
 max_age: 604800
